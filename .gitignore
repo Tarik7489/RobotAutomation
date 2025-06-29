@@ -1,0 +1,9 @@
+.venv
+.Screenshots
+__pycache__/
+.env
+log.html
+output.xml
+report.html
+
+
