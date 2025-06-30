@@ -1,7 +1,7 @@
 @echo off
 echo Activating virtual environment...
 
-:: Use the current Jenkins workspace path
+:: Activate from Jenkins workspace path
 call %WORKSPACE%\.venv\Scripts\activate.bat
 
 echo Running Robot Tests...
